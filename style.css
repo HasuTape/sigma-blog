@@ -1,0 +1,19 @@
+#Dorian
+{
+    background-image: linear-gradient(135deg, lime, turquoise);
+    height: 100%;
+}
+#Wiktor
+{
+    background-image: linear-gradient(135deg, rgb(179, 0, 255), turquoise);
+}
+hr
+{
+    border: 2.5px dashed black;   
+}
+article
+{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
